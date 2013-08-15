@@ -1,7 +1,7 @@
 Restangular
 ===========
 
-This project demonstrates how nicely Restlet & AngularJS interact.
+This project demonstrates how nicely RESTX & AngularJS interact.
 
 ## Usage
 

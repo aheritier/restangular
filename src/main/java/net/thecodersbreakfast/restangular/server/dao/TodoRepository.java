@@ -38,7 +38,7 @@ public class TodoRepository {
     public TodoRepository() {
         create(new Todo(1L, "Learn AngularJS", "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop. "));
         create(new Todo(2L, "Use Twitter Bootstrap", "Sleek, intuitive, and powerful mobile-first front-end framework for faster and easier web development."));
-        create(new Todo(3L, "Integrate with Restlet", "The leading web API framework for Java"));
+        create(new Todo(3L, "Integrate with RESTX", "The leading web API framework for Java"));
     }
 
     public List<Todo> list() {
